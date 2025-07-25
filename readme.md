@@ -32,7 +32,7 @@ A hardware implementation of mathematical functions using Bluespec SystemVerilog
 - Newton-Raphson algorithm with 3 iterations for high precision
 - Special case handling (NaN, infinity, zero, denormals)
 - Error tracking and system monitoring
-- Robust floating-point arithmetic
+
 
 ## Quick Start
 
