@@ -120,7 +120,7 @@ Generated Verilog files are placed in:
 
 - Bluespec Compiler (bsc)
 - Make utility
-- POSIX-compliant shell environment
+
 
 ## Algorithm Details
 
